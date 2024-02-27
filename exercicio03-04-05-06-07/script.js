@@ -38,3 +38,4 @@ console.log("O array de números pares é: ",  pares)
 const quadrados = numeros.map(numeroAtual => numeroAtual ** 2)
 
 console.log(`O quadrado dos números do primeiro array é: ${quadrados}`);
+//Fim

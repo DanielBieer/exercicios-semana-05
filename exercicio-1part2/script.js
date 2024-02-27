@@ -12,3 +12,4 @@ let frutas3 = prompt("Digite a primeira fruta:")
 let frutas = [frutas1, frutas2, frutas3]
 
 console.log(frutas[1])
+//

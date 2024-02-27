@@ -6,3 +6,4 @@ frutas.push("carambola")
 frutas.shift()
 
 console.log(frutas)
+//
